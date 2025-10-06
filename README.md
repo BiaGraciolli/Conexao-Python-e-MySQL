@@ -12,8 +12,8 @@ Tecnologias:
   - `mysql.connector` (para conexão com o banco)
   - `prettytable` (para formatação da saída de dados)
 ------------------------------------------------------
-Estrutura de Pastas  
-📁 Conexão MySQL com Python/  
+Estrutura de Pastas:  
+📁 **Conexão MySQL com Python/**  
 ├── database/  
 │ ├── database.sql  
 │ └── univap.mwb  
